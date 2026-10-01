@@ -65,11 +65,6 @@ Ardından `.env` dosyasını aç ve kendi API key'ini yapıştır:
 GEMINI_API_KEY=buraya_kendi_api_keyini_yaz
 ```
 
-> **⚠️ Önemli:**
-> - API key'ini `.env` dosyasına koy — `.env.example` dosyasına değil.
-> - `.env` dosyası `.gitignore`'a eklenmiştir, GitHub'a yüklenmez.
-> - `.env.example` dosyası şablon olarak repo'da tutulur, asıl key **asla** buraya yazılmaz.
-
 ### 5. Sunucuyu Başlat
 
 ```bash
